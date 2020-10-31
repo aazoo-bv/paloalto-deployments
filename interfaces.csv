@@ -1,0 +1,2 @@
+vlanid,name,ipaddress
+20,aazoo-net,10.20.1.1/24

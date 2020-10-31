@@ -1,0 +1,2 @@
+source_zone,destination_zone,source_net,destination_net,application,protocol,service,action,policy,name
+"inside","outside","10.100.0.0/16","8.8.8.8","dns","any","application-default","allow","secure-sec-profile","Allow to Google DNS"
